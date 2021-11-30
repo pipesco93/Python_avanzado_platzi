@@ -11,3 +11,5 @@ times4 = make_multiplier(4)
 print(times10(3)) # el 3 va a ser el n que paso de parámetro paea multiplier la nested function 
 print(times4(5))
 print(times10(times4(2)))
+
+# los closures parecen en clases cortas para hacerlas mas elegantes y cuando estoy usando decoradores
