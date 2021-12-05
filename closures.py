@@ -1,8 +1,6 @@
 # Hola 3 -> Hola Hola Hola
 # Facundo 2 -Z Facundo Facundo
 
-from typing_extensions import runtime
-
 
 def make_repester_of(n): # funcion envolvente la que tienen la nested function
     def repeater(string): # nested function
